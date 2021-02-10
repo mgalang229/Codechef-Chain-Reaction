@@ -10,7 +10,7 @@ int main() {
   while (tt--) {
   	int r, c;
   	cin >> r >> c;
-  	// view the image in this repository for better understanding
+  	// view the first image in this repository for better understanding
   	// create a two-dimensional array
   	vector<vector<int>> v(r, vector<int> (c, 0));
   	for (int i = 0; i < r; i++) {
